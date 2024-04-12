@@ -5,6 +5,6 @@ I'm Melissa Garcia. Currently venturing into frontend web development with high 
 ## Skills and Technologies 🚀
 - ⚙️ **Languages:** JavaScript, Java, Python, PHP
 - 📑 **Databases:** Oracle, MongoDB, SQL
-- 🧩 **Technologies:** Spring-Boot, React, Angular, HTML5, CSS3, Node.js
-- 🎨 **CSS Frameworks:** Express, Bootstrap, Tailwind CSS
+- 🧩 **Technologies:** Spring-Boot, React, Angular, HTML5, CSS3, Node.js,Express
+- 🎨 **CSS Frameworks:** Bootstrap - Tailwind CSS
 - 💻 **Operating Systems:** Linux - Windows

@@ -1,15 +1,14 @@
-<div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" style="margin-right: 10px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI0YnZjY3BiMzRlMnh3OHc5MDluazJ2NTRvdnRnOWY1aW84bTZrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KzpjLvJjJknJ5Xuak/giphy.gif" width="150">
-   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150"/>
+
+
+
+
+<div align="center">
+<h1> Hi to you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Welcome to my page!<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100"/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> <img src="https://komarev.com/ghpvc/?username=DevMGcode&style=plastic&color=blueviolet" alt=""/></h1>
 </div>
 
-# Hi to you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Welcome to my page! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="50" height="50" /> <img src="https://komarev.com/ghpvc/?username=DevMGcode&style=plastic&color=blueviolet" alt=""/>
-
-I'm Melissa Garcia. Currently venturing into frontend web development with high quality in detail.
+ <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150" style="margin-right: 10px;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Melissa+Garcia;Currently+venturing+into;frontend+web+development;with+high+quality+in+detail.&width=310&color=ff69b4)](https://git.io/typing-svg)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMGcode&hide_progress=true&bg_color=000000&title_color=ff69b4&text_color=ffffff)
 
 
-![Texto alternativo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
 

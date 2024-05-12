@@ -16,6 +16,61 @@
    </a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMGcode&hide_progress=true&bg_color=000000&title_color=ff69b4&text_color=ffffff" alt="Top Langs">
     </div>
 </div>
+
+#  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hibiscus.png" alt="Hibiscus" width="25" height="25" /> GitHub Repositories <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hibiscus.png" alt="Hibiscus" width="25" height="25" /></h2>
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> Below are the links to the repositories for each project. Feel free to explore and give a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> if you find them useful!</p>
+
+<table>
+  <tr>
+    <td style="width: 20%;">
+      <details>
+        <summary>Peluqueria_Angular</summary>
+        <p>Developed in TypeScript - (MEAN).</p>
+        <a href="https://github.com/DevMGcode/Peluqueria_Angular">Go to repository</a>
+      </details>
+    </td>
+    <td style="width: 20%;">
+      <details>
+        <summary>finalreact</summary>
+        <p>Developed in JavaScript - (React).</p>
+        <a href="https://github.com/DevMGcode/finalreact">Go to repository</a>
+      </details>
+    </td>
+    <td style="width: 20%;">
+      <details>
+        <summary>bit00me</summary>
+        <p>FakestoreApi Consumption, developed in JavaScript.</p>
+        <a href="https://github.com/DevMGcode/bit00me">Go to repository</a>
+      </details>
+    </td>
+    <td style="width: 20%;">
+      <details>
+        <summary>blog</summary>
+        <p>Developed with HTML5, CSS3, JavaScript, jQuery, and plugins.</p>
+        <a href="https://github.com/DevMGcode/blog">Go to repository</a>
+      </details>
+    </td>
+    <td style="width: 20%;">
+      <details>
+        <summary>bit02spa</summary>
+        <p>Developed in JavaScript - (React).</p>
+        <a href="https://github.com/DevMGcode/bit02spa">Go to repository</a>
+      </details>
+    </td>
+    <td style="width: 20%;">
+      <details>
+        <summary>bit01website</summary>
+        <p>Developed in JavaScript - (React).</p>
+        <a href="https://github.com/DevMGcode/bit01website">Go to repository</a>
+      </details>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Skills and Technologies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> </h2>
 
 <table>

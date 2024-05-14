@@ -83,15 +83,6 @@
         </td>
     </tr>
     <tr>
-        <th> 🗃️ Databases</th>
-        <td>
-            <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle">
-            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        </td>
-    </tr>
-    <tr>
         <th> 🧩 Technologies</th>
         <td>
             <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring">

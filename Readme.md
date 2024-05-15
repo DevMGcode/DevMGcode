@@ -25,9 +25,12 @@
   <tr>
     <td style="width: 20%;">
       <details>
-        <summary>Peluqueria_Angular</summary>
-        <p>Developed in TypeScript - (MEAN).</p>
-        <a href="https://github.com/DevMGcode/Peluqueria_Angular">Go to repository</a>
+    <summary>Peluqueria_Angular</summary>
+    <p>Developed in TypeScript - (MEAN).</p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="15" height="15" />   
+    <a href="https://github.com/DevMGcode/Peluqueria_Angular">Look at the page</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="15" height="15" /><br>
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="15" height="15" />
+    <a href="https://devmgcode.github.io/Peluqueria_Angular/">Go to repository</a>    
       </details>
     </td>
     <td style="width: 20%;">

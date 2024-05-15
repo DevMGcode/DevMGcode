@@ -37,13 +37,19 @@
       <details>
         <summary>finalreact</summary>
         <p>Developed in JavaScript - (React).</p>
-        <a href="https://github.com/DevMGcode/finalreact">Go to repository</a>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="15" height="15" />  
+        <a href="https://devmgcode.github.io/">Look at the page</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="15" height="15" /><br>          
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="15" height="15" />
+        <a href="https://github.com/DevMGcode/finalreact">Go to repository</a>  
       </details>
     </td>
     <td style="width: 20%;">
       <details>
         <summary>bit00me</summary>
-        <p>FakestoreApi Consumption, developed in JavaScript.</p>
+        <p>Developed in JavaScript.</p>
+           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="15" height="15" />  
+        <a href="https://devmgcode.github.io/bit00me/">Look at the page</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="15" height="15" /><br>   
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="15" height="15" />
         <a href="https://github.com/DevMGcode/bit00me">Go to repository</a>
       </details>
     </td>
@@ -51,6 +57,9 @@
       <details>
         <summary>blog</summary>
         <p>Developed with HTML5, CSS3, JavaScript, jQuery, and plugins.</p>
+           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="15" height="15" />  
+        <a href="https://devmgcode.github.io/blog/index.html">Look at the page</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="15" height="15" /><br> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="15" height="15" />
         <a href="https://github.com/DevMGcode/blog">Go to repository</a>
       </details>
     </td>
@@ -58,13 +67,19 @@
       <details>
         <summary>bit02spa</summary>
         <p>Developed in JavaScript - (React).</p>
-        <a href="https://github.com/DevMGcode/bit02spa">Go to repository</a>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="15" height="15" />  
+        <a href="https://devmgcode.github.io/bit02spa/">Look at the page</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="15" height="15" /><br> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="15" height="15" />
+        <a href="https://github.com/DevMGcode/bit02spa">Go to repository</a> 
       </details>
     </td>
     <td style="width: 20%;">
       <details>
         <summary>bit01website</summary>
         <p>Developed in JavaScript - (React).</p>
+           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="15" height="15" />  
+        <a href="https://devmgcode.github.io/bit01website/">Look at the page</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="15" height="15" /><br> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="15" height="15" />
         <a href="https://github.com/DevMGcode/bit01website">Go to repository</a>
       </details>
     </td>

@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e860a4,100:9d4edd&height=210&section=header&text=Melissa%20Garcia&font=Playfair%20Display&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Product%20and%20Frontend%20Solutions&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:0077b6&height=210&section=header&text=Melissa%20García&font=Playfair%20Display&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Product%20and%20Frontend%20Solutions&descAlignY=58&descSize=16"/>
 
 <b>✨ IT Project Management • Strategy • UI/UX Design</b><br>
 Building elegant digital products through technology, strategy and design.
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=E860A4&center=true&vCenter=true&multiline=false&repeat=true&width=540&height=45&lines=Modern+Frontend+Experiences;Technology+with+purpose;Always+building+and+learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0096c7&center=true&vCenter=true&multiline=false&repeat=true&width=540&height=45&lines=Modern+Frontend+Experiences;Technology+with+purpose;Always+building+and+learning"/>
 
 <br>
 
@@ -16,73 +16,70 @@ Building elegant digital products through technology, strategy and design.
 <br>
 
 <a href="https://devmgcode.github.io/Portafolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Explore-e860a4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-0096c7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DevMGcode" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-DevMGcode-9d4edd?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DevMGcode-0077b6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=DevMGcode&color=e860a4&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=DevMGcode&color=0096c7&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=6&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077b6,100:023e8a&height=6&section=header"/>
 
 <details>
-<summary><b>🌸 Explore Full Profile</b></summary>
+<summary><b>🌊 Explore Full Profile</b></summary>
 
 <div align="center">
 
-
-
 ## About Me
 
+<img src="https://img.shields.io/badge/Melissa_Garcia-0096c7?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Melissa_Garcia-e860a4?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Systems_Engineer-9d4edd?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Specialization-Frontend_Development_•_IT_Project_Management-e860a4?style=flat-square&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Systems_Engineer-0077b6?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Expertise-UI/UX_Design_•_Agile_•_Project_Coordination-9d4edd?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Specialization-Frontend_Development_•_IT_Project_Management-0096c7?style=flat-square&logo=rocket&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Learning-Advanced_React_•_TypeScript_•_Architecture-e860a4?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expertise-UI/UX_Design_•_Agile_•_Project_Coordination-023e8a?style=flat-square&logo=figma&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Learning-Advanced_React_•_TypeScript_•_Architecture-0077b6?style=flat-square&logo=react&logoColor=white"/>
 
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0096c7,100:023e8a&height=3&section=header"/>
 </p>
 
 <div align="center">
 
 ## 🏆 Achievements & Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevMGcode&theme=tokyonight&no-frame=true&row=1&column=3"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevMGcode&theme=algolia&no-frame=true&row=1&column=3"/>
 
 <br><br>
 
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMGcode&theme=tokyonight"/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMGcode&theme=github_dark"/>
 
 <br>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevMGcode&theme=tokyonight"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevMGcode&theme=github_dark"/>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevMGcode&theme=tokyonight&utcOffset=-5"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevMGcode&theme=github_dark&utcOffset=-5"/>
 
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077b6,100:03045e&height=3&section=header"/>
 </p>
 
 <div align="center">
@@ -97,7 +94,7 @@ Building elegant digital products through technology, strategy and design.
 Angular booking & service management platform improving workflow and UX.
 
 <a href="https://devmgcode.github.io/Peluqueria_Angular/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-e860a4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-0096c7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -108,7 +105,7 @@ Angular booking & service management platform improving workflow and UX.
 Responsive React app focused on modern UI and reusable components.
 
 <a href="https://devmgcode.github.io/finalreact/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-9d4edd?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-0077b6?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
 
 </td>
@@ -121,7 +118,7 @@ Responsive React app focused on modern UI and reusable components.
 Clean content platform focused on readability and structure.
 
 <a href="https://devmgcode.github.io/blog/index.html" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-e860a4?style=for-the-badge&logo=hashnode&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-023e8a?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 </td>
@@ -132,7 +129,7 @@ Clean content platform focused on readability and structure.
 Frontend experiments for continuous improvement.
 
 <a href="https://devmgcode.github.io/bit00me/" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-9d4edd?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-03045e?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 </td>
@@ -142,29 +139,29 @@ Frontend experiments for continuous improvement.
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0096c7,100:023e8a&height=3&section=header"/>
 </p>
 
 <div align="center">
 
 ## Workflow & Methodologies
 
-<img src="https://img.shields.io/badge/Agile-e860a4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scrum-9d4edd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-0096c7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum-0077b6?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Kanban-e860a4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI/UX-9d4edd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kanban-023e8a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI/UX-03045e?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Product_Strategy-e860a4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product_Strategy-0096c7?style=for-the-badge"/>
 
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077b6,100:023e8a&height=3&section=header"/>
 </p>
 
 <div align="center">
@@ -180,25 +177,23 @@ Frontend experiments for continuous improvement.
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0096c7,100:03045e&height=3&section=header"/>
 </p>
 
 <div align="center">
 
 ## GitHub Dashboard
 
-
-
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevMGcode&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevMGcode&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevMGcode&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevMGcode&theme=github_dark"/>
 
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077b6,100:023e8a&height=3&section=header"/>
 </p>
 
 <div align="center">
@@ -206,13 +201,13 @@ Frontend experiments for continuous improvement.
 ## Connect
 
 <a href="https://devmgcode.github.io/Portafolio/" target="_blank">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-e860a4?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20Portfolio-0096c7?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
 
 <p align="center">
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=3&section=header"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077b6,100:023e8a&height=3&section=header"/>
 </p>
 
 <div align="center">
@@ -223,8 +218,8 @@ Frontend experiments for continuous improvement.
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e860a4,100:9d4edd&height=6&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0096c7,100:023e8a&height=6&section=header"/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e860a4,100:9d4edd&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:023e8a&height=150&section=footer"/>
 </div>
